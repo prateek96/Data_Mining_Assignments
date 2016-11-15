@@ -1,0 +1,54 @@
+confusion matrix: 1
+11 5 
+18 0 
+
+confusion matrix: 2
+10 1 5 0 
+0 15 0 3 
+
+confusion matrix: 3
+11 5 0 0 0 
+0 0 10 4 4 
+
+confusion matrix: 4
+16 0 
+0 18 
+
+confusion matrix: 5
+10 1 5 
+0 18 0 
+
+confusion matrix: 6
+15 1 
+0 18 
+
+confusion matrix: 8
+11 5 0 
+0 0 18 
+
+confusion matrix: 11
+11 5 0 0 
+0 0 14 4 
+
+result at iteration : 1 
+-8.712793e+00 1.416667e+00 1.328074e-01 2.259666e-01 1 
+-1.926167e+01 6.302859e+00 3.872452e-01 6.112950e-01 2 
+-2.179307e+01 8.823366e+00 3.998192e-01 6.280214e-01 3 
+-1.266536e+01 3.370425e+00 3.714661e-01 1 4 
+-1.620491e+01 4.210703e+00 3.744247e-01 6.948584e-01 5 
+-1.199365e+01 2.794036e+00 3.599606e-01 8.364981e-01 6 
+-1.818291e+01 4.787092e+00 3.990796e-01 8.255182e-01 8 
+-2.119432e+01 6.771405e+00 4.151052e-01 7.071354e-01 11 
+NMI tot: 
+1 3.714661e-01 
+MOD tot: 
+4.151052e-01 7.071354e-01 
+2.868206e+01 average max NMI value : 1 
+standard deviation of max NMI : 0 
+average modularity value corresponding to max NMI: 
+ standard deviation of modularity value corresponding to max NMI: 
+average max modularity value: 
+standard deviation of  max modularity 
+average NMI value corresponding to max Modularity 
+standard deviation of NMI value corresponding to max Modularity 
+2.868206e+01 
